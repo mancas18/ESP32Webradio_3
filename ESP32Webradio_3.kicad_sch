@@ -1205,7 +1205,7 @@
     (property "Value" "SJ1-3523N" (id 1) (at 241.3 116.2049 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "CUI_SJ1-3523N" (id 2) (at 229.235 114.935 0)
+    (property "Footprint" "importedFootprint:CUI_SJ1-3523N" (id 2) (at 229.235 114.935 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 229.235 114.935 0)
@@ -2025,7 +2025,7 @@
       (reference "J3") (unit 1) (value "Display") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/04b4c05c-20ff-4066-b436-c58a3669d047"
-      (reference "J5") (unit 1) (value "SJ1-3523N") (footprint "CUI_SJ1-3523N")
+      (reference "J5") (unit 1) (value "SJ1-3523N") (footprint "importedFootprint:CUI_SJ1-3523N")
     )
     (path "/8cf50433-5d1e-4e8e-a26a-2df3e5bda93c"
       (reference "R1") (unit 1) (value "100k") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical")
